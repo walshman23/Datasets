@@ -1,0 +1,116 @@
+"Walsh","Howard","DateofReport","CWID","NameofOrganization","NAICSCode","Industry ","CompromisedRecords","WhatWasCompromised","LostorStolen","SimpleMechanism","dummy.ssn","dummy.ccn","dummy.addr","dummy.dob","dummy.phi","dummy.acct","dummy.miscfin","dummy.other"
+1,1,2005-12-27,,"Marriott International ",721110,72,206000,"Social Security Number and Credit Card","Lost","Missing or Stolen Hardware",1,1,0,0,0,0,0,0
+0,1,2006-01-16,,"New York City Teachers' Retirement System",525110,52,5800,"Social Security and bank account numbers, birth dates and secure passwords","Stolen","Insider Abuse or Theft",1,0,0,1,0,1,0,1
+0,1,2006-02-15,,"Suffolk county clerk's office",921110,92,8000,"Social Security Numbers","Lost","Exposed Online",1,0,0,0,0,0,0,0
+0,1,2006-02-17,,"Mount St. Mary's Hospital",622210,62,,"date of birth, address and Social Security numbers","Stolen","Missing or Stolen Hardware",1,0,1,1,0,0,0,0
+1,1,2006-03-14,,"Buffalo Bisons",711211,71,,"credit card numbers and other financial info","Stolen","External Intrusion",0,1,0,0,0,0,1,0
+0,1,2006-04-07,,"DiscountDomainRegistry.com",518210,51,1000,"credit card numbers, usernames, passwords and other information","Lost","Exposed Online",0,1,0,0,0,0,0,1
+1,1,2006-06-16,,"NY State Comptroller's Office",921130,92,1300,"payroll information -- including Social Security numbers and home addresses","Lost","Missing or Stolen Hardware",1,0,1,0,0,0,1,0
+0,1,2006-07-24,,"NYC Department of Homeless Services",921110,92,8400,"Social Security Numbers and names","Lost","Exposed Online",1,0,0,0,0,0,1,0
+1,1,2006-07-25,,"Cablevision",517510,51,13700,"social security and 401(k) election information","Lost","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,1,2006-07-26,,"CS Stars",524292,52,540000,"names, addresses and Social Security numbers","Lost","Missing or Stolen Hardware",1,0,1,0,0,0,0,0
+1,1,2006-08-04,,"Vassar Bros Medical Center",622110,62,257800,"Social Security numbers and dates of birth","Stolen","Missing or Stolen Hardware",1,0,0,1,0,0,0,0
+1,1,2006-09-25,,"GE",33531,33,50000,"Social Security Numbers and names","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,1,2006-10-28,,"Hancock Askew & Co. LLP",32611,32,700,"401(k) info","Stolen","Missing or Stolen Hardware",0,0,0,0,0,0,1,0
+0,1,2006-11-02,,"Manhattan Veterans Affairs Medical Center.",622210,62,100,"names, Social Security Numbers, medical info","Stolen","Missing or Stolen Hardware",1,0,0,0,1,0,0,0
+1,0,2006-01-25,8,"Advanced Pain Care, LLC",621111,62,807,"Health Records","Stolen","Missing or Stolen Hardware",0,0,0,0,1,0,0,0
+1,0,2006-04-27,13,"Sterling Renaissance Festival",711320,71,60,"Name,address,payment card numbers,CVV codes,email address,CC expiration date",,"Exposed Online",0,1,1,0,0,0,0,0
+1,0,2006-03-07,14,"AudioLink, LLC",-1,-1,25,"Name,address,payment card numbers,phone number,email address",,"Exposed Online",0,1,1,0,0,0,0,0
+1,0,2006-04-21,15,"Syracuse University",611310,61,4,"Name,SSN",,"External Intrusion",1,0,0,0,0,0,0,0
+1,0,2006-04-11,16,"SUNY New Paltz",611310,61,524,"Name,SSN,payment card numbers, contact information",,"External Intrusion",1,1,0,0,0,0,0,1
+1,0,2006-03-27,17,"Long Island University",611310,61,51,"Unspecified personal information",,"Mishandled",,,,,,,,
+1,0,2006-05-22,18,"Charter School for Applied Technologies",611110,61,250,"Unspecified",,"Unspecified",,,,,,,,
+1,0,2006-05-17,21,"M+T Bank Corporation",522110,52,2524,"name,address,account numbers,SSN,account balance","Stolen","Missing or Stolen Hardware",1,0,1,0,0,1,0,0
+1,0,2006-04-12,23,"GreenPoint Mortgage Funding, Inc.",522292,52,32,"name, address, SSN, non-payment account number, credit score, account balance","Stolen","Missing or Stolen Hardware",1,0,1,0,0,1,1,0
+1,0,2006-05-12,24,"Annibell Mortgage Inc.",522310,52,300,"Unspecified","Stolen","Missing or Stolen Hardware",,,,,,,,
+1,0,2006-03-09,28,"Merrill Lynch",523120,52,275,"Name, address, SSN","Stolen","Missing or Stolen Hardware",1,0,1,0,0,0,0,0
+1,0,2006-05-11,29,"Merrill Lynch",523120,52,10500,"Name,address,non-payment card account numbers,account balance","Stolen","Missing or Stolen Hardware",0,0,1,0,0,1,1,0
+1,0,2006-04-20,32,"Bear, Stearns, and Co.",523120,52,2,"Name, address, SSN, non-payment account number, account balances",,"Exposed Online",1,0,1,0,0,1,1,0
+1,0,2006-04-24,33,"Deutsche Bank",522110,52,36000,"Name, address, SSN, non-payment account number, account balances","Lost","Missing or Stolen Hardware",1,0,1,0,0,1,1,0
+1,0,2006-03-23,36,"Independent Health",524292,52,1,"Name, non-payment account number",,"Other",0,0,0,0,0,1,0,0
+1,0,2006-04-05,39,"New York Life Insurance Company",524113,52,2,"name,dob,SSN,policy number","Stolen","Missing or Stolen Hardware",1,0,0,1,0,0,0,1
+1,0,2006-04-21,40,"New York Life Insurance Company",524113,52,1,"name,dob,SSN,policy number","Stolen","Missing or Stolen Hardware",1,0,0,1,0,0,0,1
+1,0,2006-03-30,41,"Security Mutual Life Insurance",524113,52,167,"Name,DOB,social security number","Stolen","Missing or Stolen Hardware",1,0,0,1,0,0,0,0
+1,0,2006-03-24,44,"New York State Liquor Authority",926150,92,2,"name,SSN",,"Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-07-27,45,"NY STATE DEPARTMENT OF TAXATION AND FINANCE",921130,92,38,"Name,SSN,address,non-payment card account number","Stolen","Missing or Stolen Hardware",1,0,1,0,0,1,0,0
+1,0,2006-03-30,46,"NY STATE DEPARTMENT OF TAXATION AND FINANCE",921130,92,1,"Name,ssn",,"Unspecified",1,0,0,0,0,0,0,0
+1,0,2006-03-13,47,"New York State Comptroller",921130,92,1,"SSN,Name,salary info",,"Exposed Online",1,0,0,0,0,0,1,0
+1,0,2006-04-27,48,"Long Island Railroad",485112,48,20000,"name, address, SSN, DOB, and employee earnings information","Lost","Missing or Stolen Hardware",1,0,1,1,0,0,1,0
+1,0,2006-03-30,50,"Consolidated Edison of NY",2211,22,15704,"name, SSN,salary information","Lost","Missing or Stolen Hardware",1,0,0,0,0,0,1,0
+1,0,2006-04-13,56,"Visiting Nurse Service of New York",621610,62,3,"SSN, health care and personal information","Stolen","Missing or Stolen Hardware",1,0,0,0,1,0,0,1
+1,0,2006-04-13,57,"Visiting Nurse Service of New York",621610,62,29,"SSN, health care and personal information","Stolen","Missing or Stolen Hardware",1,0,0,0,1,0,0,1
+1,0,2006-04-13,58,"Visiting Nurse Service of New York",621610,62,60,"SSN, health care and personal information","Stolen","Missing or Stolen Hardware",1,0,0,0,1,0,0,1
+1,0,2006-04-04,61,"American International Group",524126,52,1,"name,SSN,driver's license number,dob","Lost","Missing or Stolen Hardware",1,0,0,1,0,0,0,1
+1,0,2005-12-21,65,"Sunrise Volkswagen",441120,44,4,"Social Security Numbers,Employment Records,Name,Address,Signature","Stolen","Other",1,0,1,0,0,0,1,1
+1,0,2006-01-10,71,"Cattaraugus-Allegany BOCES",611110,61,5000,"non-payment card account information,Social Security Numbers",,"External Intrusion",1,0,0,0,0,1,0,0
+1,0,2006-01-06,73,"Empire State College",611310,61,16,"Social Security Numbers",,"External Intrusion",1,0,0,0,0,0,0,0
+1,0,2006-01-10,75,"New York State Comptroller",921130,92,10300,"Social Security Numbers,Employment Records,Name",,"Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-02-23,78,"Orange and Rockland Utilities",22,22,1,"Social Security Numbers,Name",,"Insider Abuse or Theft",1,0,0,0,0,0,0,0
+1,0,2006-02-16,80,"The Princeton Review",611691,61,35,"Social Security Numbers,Name,Address",,"Other",1,0,1,0,0,0,0,0
+1,0,2006-02-16,81,"SUNYIT",611310,61,284,"Social Security Numbers",,"Exposed Online",1,0,0,0,0,0,0,0
+1,0,2006-01-12,82,"Suffolk Community College",611210,61,3930,"Social Security Numbers,Employment Records,Name",,"Exposed Online",1,0,0,0,0,0,1,0
+1,0,2006-05-08,91,"American Institute of Certified Public Acountants",813920,81,330000,"Social Security Number,Name,Address","Lost","Missing or Stolen Hardware",1,0,1,0,0,0,0,0
+1,0,2006-06-21,96,"American International Group",524126,52,969000,,"Stolen","Missing or Stolen Hardware",,,,,,,,
+1,0,2006-09-08,97,"Action Capital Mortgage Services",522310,52,923,,"Stolen","Missing or Stolen Hardware",,,,,,,,
+1,0,2006-10-20,107,"Blue Cross Blue Shield of Western New York",524114,52,96,"Name,SSN","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-06-12,109,"Barnard College",611310,61,2250,"Name,SSN",,"External Intrusion",1,0,0,0,0,0,0,0
+1,0,2006-10-24,111,"Bethpage Federal Credit Union",522130,52,106,"Payment card account number, non-payment card account number,address,phone,name",,"Missing or stolen paper",0,0,1,0,0,1,0,1
+1,0,2006-08-10,116,"City University of New York, Hunter College",611310,61,250,"Name,SSN","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-12-21,117,"City University of New York, Hunter College",611310,61,427,"name,SSN,dob",,"Unspecified",1,0,0,1,0,0,0,0
+1,0,2006-12-21,118,"City University of New York, Hunter College",611310,61,96,"name,SSN,dob",,"Exposed Online",1,0,0,1,0,0,0,0
+1,0,2006-12-21,120,"City University of New York, York College",611310,61,445,"name,SSN,dob","Stolen","Missing or Stolen Hardware",1,0,0,1,0,0,0,0
+1,0,2006-10-02,127,"Citigroup",522110,52,11,"Name,SSN,address","Stolen","Missing or Stolen Hardware",1,0,1,0,0,0,0,0
+1,0,2006-07-05,129,"Columbia University",611310,61,98,"Name,SSN,phone",,"Exposed Online",1,0,0,0,0,0,0,1
+1,0,2006-07-25,130,"Columbia University",611310,61,78,"Name,Address,SSN,passport number","Stolen","Missing or Stolen Hardware",1,0,1,0,0,0,0,1
+1,0,2006-09-15,131,"Columbia University",611310,61,1132,"Name,Address,SSN,non-payment card account number",,"Insider Abuse or Theft",1,0,1,0,0,1,0,0
+1,0,2006-10-31,132,"Community National Bank",522110,52,90,"Name,address,SSN,misc","Stolen","Missing or Stolen Hardware",1,0,1,0,0,0,0,1
+1,0,2006-12-07,136,"Cornell University",611310,61,210,"Name,SSN","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-08-03,156,"Fiduciary Trust Company International",523920,52,53,"Name,account num,SSN","Stolen","Missing or Stolen Hardware",1,0,0,0,0,1,0,0
+1,0,2006-11-20,161,"Ford Models",711410,71,0,"Name,payment card account number",,"Insider Abuse or Theft",0,1,0,0,0,0,0,0
+1,0,2006-12-15,164,"Group Health Incorporated",524114,52,37886,"Name,SSN,misc medical info","Lost","Missing or Stolen Hardware",1,0,0,0,1,0,0,0
+1,0,2006-09-14,167,"GreenPoint Mortgage Funding, Inc.",522292,52,44,"Name,Address,SSN,Phone,non-payment card account number,misc financial information","Lost","Missing or Stolen Hardware",1,0,1,0,0,1,1,0
+1,0,2006-11-10,169,"NY State Higher Education Services Corporation",522294,52,49,"Name,address,SSN","Lost","Missing or stolen paper",1,0,1,0,0,0,0,0
+1,0,2006-07-24,171,"Heritage Centers",623210,62,31,"Name,address,SSN,DOB,phone","Stolen","Missing or stolen paper",1,0,1,1,0,0,0,1
+1,0,2006-08-09,179,"City University of New York, Hunter College",611310,61,74,"Name,SSN",,"Exposed Online",1,0,0,0,0,0,0,0
+1,0,2006-08-09,180,"City University of New York, Hunter College",611310,61,233,"Name,SSN","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-10-02,185,"Jefferson County (NY) Department of Social Services",624190,62,44,"Name,SSN",,"Mishandled",1,0,0,0,0,0,0,0
+1,0,2006-06-05,187,"KINGSBROOK JEWISH MEDICAL CENTER",622110,62,34863,"Name,SSN","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-05-19,190,"Lehman Brothers",523120,52,67,"Name,SSN,tax forms",,"Missing or Stolen Hardware",1,0,0,0,0,0,1,0
+1,0,2006-11-07,191,"City University of New York, Lehman College",611310,61,768,"Name,SSN,address,dob",,"Exposed Online",1,0,1,1,0,0,0,0
+1,0,2006-06-27,201,"Maimonides Medical Center",622110,62,560,"Name,Address,SSN,DOB","Stolen","Missing or Stolen Hardware",1,0,1,1,0,0,0,0
+1,0,2006-08-30,202,"Manhasset-Lakeville Fire District",922160,92,300,"Name,SSN,dob","Stolen","Missing or Stolen Hardware",1,0,0,1,0,0,0,0
+1,0,2006-10-23,205,"Mount Sinai Medical Center",622110,62,311,"Name,SSN,PHI","Lost","Missing or Stolen Hardware",1,0,0,0,1,0,0,0
+1,0,2006-09-07,206,"MYSTIC STAMP CO.",,,13,"Name, payment card account number",,"Exposed Online",0,1,0,0,0,0,0,0
+1,0,2006-08-17,207,"New York Black Car Operators' Injury Compensation Fund",525120,52,0,"Unspecified",,"Unspecified",,,,,,,,
+1,0,2006-09-15,208,"New York City Health and Hospitals Corporation",622210,62,4000,"Name,SSN","Lost","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-08-08,209,"New York Life Insurance Company",524113,52,21,"Name,DOB,SSN,address","Stolen","Missing or Stolen Hardware",1,0,1,1,0,0,0,0
+1,0,2006-09-27,210,"New York Life Insurance Company",524113,52,2,"Name,DOB,SSN,address","Stolen","Missing or Stolen Hardware",1,0,1,1,0,0,0,0
+1,0,2006-09-28,211,"New York State Banking Department",926150,92,19640,"Name,SSN,misc financial info",,"Exposed Online",1,0,0,0,0,0,1,0
+1,0,2006-12-14,212,"New York State Comptroller",921130,92,7,"SSN, DL number, name","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,1
+1,0,2006-10-27,213,"New York State Comptroller",921130,92,6,"Name,SSN",,"Exposed Online",1,0,0,0,0,0,0,0
+1,0,2006-07-13,216,"New York State Department of Motor Vehicles",921110,92,57,"Name, DL number, DOB",,"Insider Abuse or Theft",0,0,0,1,0,0,0,1
+1,0,2006-05-24,217,"New York State Insurance Fund",524113,52,37,"Name,SSN","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-08-17,218,"New York State Insurance Fund",524113,52,9,"Name,SSN","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-12-11,219,"NY State Office of Temporary and Disability Assistance",921110,92,5000,"Name,SSN,dob",,"Missing or Stolen Hardware",1,0,0,1,0,0,0,0
+1,0,2006-07-27,220,"NY STATE DEPARTMENT OF TAXATION AND FINANCE",921130,92,126,"name,ssn,address,misc financial info","Stolen","Missing or Stolen Hardware",1,0,1,0,0,0,1,0
+1,0,2006-10-29,221,"New York University",611310,61,30000,"name,address,SSN,phone,payment card account number","Lost","Missing or Stolen Hardware",1,1,1,0,0,0,0,0
+1,0,2006-12-04,222,"Nassau Community College",611210,61,21000,"name,address,SSN,DOB,academic history","Lost","Missing or Stolen Hardware",1,0,1,1,0,0,0,1
+1,0,2006-09-08,229,"North Fork Bank",522110,52,0,"username,CCN",,"External Intrusion",0,1,0,0,0,0,0,0
+1,0,2006-08-17,230,"Olean Federal Credit Union",522130,52,37,"Payment card account number",,"External Intrusion",0,1,0,0,0,0,0,0
+1,0,2006-09-19,231,"Olean Federal Credit Union",522130,52,11,"Payment card account number",,"External Intrusion",0,1,0,0,0,0,0,0
+1,0,2006-11-17,233,"Paetec Communications",518210,51,1095,"name,ssn,salary","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,1,0
+1,0,2006-09-22,236,"Pioneer Savings Bank",522110,52,4,"Check image",,"Exposed Online",0,0,0,0,0,0,1,0
+1,0,2006-08-18,238,"Q Dental Group",621210,62,106,"name,ssn,dob,address,PHI",,"Missing or stolen paper",1,0,1,1,1,0,0,0
+1,0,2006-12-15,243,"Seton Health System",622210,62,14,"name,ssn,address,dob,phone,phi","Stolen","Missing or Stolen Hardware",1,0,1,1,1,0,0,0
+1,0,2006-08-15,246,"SUNY Stonybrook",611310,61,2000,"Name,SSN","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-10-30,251,"Twin Tier Mortgage",522310,52,34,"name,address,ssn,misc financial info","Stolen","Missing or Stolen Hardware",1,0,1,0,0,0,1,0
+1,0,2006-10-05,252,"UBS Securities",523110,52,87,"Credit reports",,"Exposed Online",0,0,0,0,0,0,1,0
+1,0,2006-06-27,253,"University of Rochester",611310,61,286,"Name,SSN",,"Exposed Online",1,0,0,0,0,0,0,0
+1,0,2006-07-05,260,"Ulster Community College",611210,61,18,"Name,SSN","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-11-03,261,"Visiting Nurse Service of New York",621610,62,32,"name,address,SSN,PHI","Stolen","Missing or Stolen Hardware",1,0,1,0,1,0,0,0
+1,0,2006-11-17,262,"Visiting Nurse Service of New York",621610,62,19,"name,address,SSN,PHI","Stolen","Missing or Stolen Hardware",1,0,1,0,1,0,0,0
+1,0,2006-12-01,263,"Visiting Nurse Service of New York",621610,62,22,"name,address,SSN,PHI","Stolen","Missing or Stolen Hardware",1,0,1,0,1,0,0,0
+1,0,2006-11-20,276,"Yates County Public Health",923120,92,68,"name,ssn,dl number,non-payment card account number","Stolen","Missing or Stolen Hardware",1,0,0,0,0,1,0,1
+1,0,2006-02-07,317,"Goldman Sachs",523110,52,8535,"Social Security Numbers,Name","Stolen","Missing or Stolen Hardware",1,0,0,0,0,0,0,0
+1,0,2006-02-16,350,"The Princeton Review",611691,61,35,"Name,address,SSN",,"Other",1,0,1,0,0,0,0,0
+1,0,2006-02-21,358,"Spencerport Central Schools",611110,61,17,"Name,SSN",,"Exposed Online",1,0,0,0,0,0,0,0
